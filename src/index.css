@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.inputField {
+  margin-right: 10px;
+}
+
+.textContainer {
+  max-width: 355px;
+  word-wrap: break-word;
+}
+
+.tabContainer {
+  width: 40vw;
+  padding: 7rem 3rem 3rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
